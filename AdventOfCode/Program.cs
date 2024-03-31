@@ -1,4 +1,5 @@
 ﻿using AdventOfCode.Year_2015.Day_1;
+using AdventOfCode.Year_2015.Day_2;
 
 namespace AdventOfCode;
 
@@ -6,6 +7,6 @@ internal class Program
 {
     private static void Main()
     {
-        Day1.Solve();
+        Day2.Solve();
     }
 }
